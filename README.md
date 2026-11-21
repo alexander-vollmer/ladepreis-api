@@ -2,6 +2,8 @@
 
 Offene REST-API für Ladepunkte, Ad-hoc-Preise und gemeldete Verfügbarkeiten in Deutschland.
 
+Free, keyless REST API for EV charging stations, ad-hoc prices and reported availability in Germany. The API serves JSON over HTTPS, supports CORS and provides a live OpenAPI 3.1 specification. The detailed documentation below is currently available in German; all client examples can be used independently of language.
+
 - Basis-URL: `https://ladepreis.app/api/v1`
 - Format: JSON über HTTPS
 - Authentifizierung: keine
