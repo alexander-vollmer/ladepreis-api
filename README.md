@@ -83,3 +83,8 @@ Antworten sollten angemessen zwischengespeichert werden. Bitte keine unnötigen 
 
 Dieses Repository dokumentiert die öffentliche API und enthält Client-Beispiele. Der Servercode und die Quelldaten sind nicht Bestandteil dieses Repositorys.
 
+## Lizenz
+
+Die selbst erstellten Inhalte dieses Repositorys – insbesondere Dokumentation und Beispielcode – stehen unter der [MIT-Lizenz](LICENSE).
+
+Die MIT-Lizenz gilt **nicht** für Daten, die über die ladepreis.app API abgerufen werden, für Inhalte der jeweiligen Datenanbieter oder für Kartendaten. Für diese Inhalte gelten die jeweils in den API-Antworten, unter [`GET /api/v1/sources`](https://ladepreis.app/api/v1/sources) und in den [Quellen- und Lizenzhinweisen](docs/licensing.md) genannten Bedingungen.
