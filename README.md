@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ladepreis-mark.svg" width="112" height="112" alt="ladepreis.app Kreis-Blitz-Signet">
+</p>
+
 # ladepreis.app API
 
 Offene REST-API für Ladepunkte, Ad-hoc-Preise und gemeldete Verfügbarkeiten in Deutschland.
